@@ -1,3 +1,6 @@
+
+
+
 const task_input = document.querySelector("input");
 const date_input = document.querySelector(".schedule-date"); // added date input
 const add_btn = document.querySelector(".add-task-button");
